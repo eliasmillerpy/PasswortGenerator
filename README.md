@@ -2,7 +2,7 @@
 The [Morpheus Tutorial](https://www.youtube.com/user/TheMorpheus407) und [Unleashed Design](https://www.youtube.com/c/UnleashedDesign) haben einen Passwort Generator programmiert. Hier ist die Erweiterung für Chrome.    
 Guckt gerne mal bei [Morpheus Tutorial](https://www.youtube.com/user/TheMorpheus407) und [Unleashed Design](https://www.youtube.com/c/UnleashedDesign) vorbei.
 # Installation
-- Als erstes musst du dir den code herunterladen als ZIP Datei                                                                                              
+- Als erstes musst du dir den code [herunterladen als ZIP Datei](https://github.com/maileliasmiller/PasswortGenerator/archive/refs/heads/main.zip)                                                                          
 - Öffne in Chrome die [Extensions](chrome://extensions/)                                                                                         
 - Aktiviere den Entwicklermodus
 - Klicke auf Erweiterung packen
