@@ -1,0 +1,10 @@
+{
+    "name":"AdBlock",
+    "description":"This Blocking Ads",
+    "version":"1.0",
+    "manifest_version":2,
+    "background":{
+        "scripts":["./background.js"]
+    },
+    "permissions":["webRequest", "webRequestBlocking", "<all_urls>"]
+}
