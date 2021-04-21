@@ -1,10 +1,14 @@
 {
-    "name":"AdBlock",
-    "description":"This Blocking Ads",
+    "name":"PasswortGenerator",
+    "description":"Diese Extension erstellt für dich Passwörter",
     "version":"1.0",
     "manifest_version":2,
     "background":{
+        "persistant":true,
         "scripts":["./background.js"]
     },
-    "permissions":["webRequest", "webRequestBlocking", "<all_urls>"]
+    "permissions":[
+        "contextMenus",
+        "activeTab"
+    ]
 }
