@@ -5,7 +5,7 @@ Guckt gerne mal bei [Morpheus Tutorial](https://www.youtube.com/user/TheMorpheus
 - Als erstes musst du dir den code [herunterladen als ZIP Datei](https://github.com/maileliasmiller/PasswortGenerator/archive/refs/heads/main.zip)                                - Mache aus der ZIP Datei einen Ordner                
 - Öffne in Chrome die [Extensions](chrome://extensions/)                                                                                         
 - Aktiviere den Entwicklermodus
-- Klicke auf Erweiterung packen
+- Klicke auf Entpackte Erweiterung laden
 - Klicke auf das Erste durchsuchen
 - Wähle die ZIP Datei aus
 
